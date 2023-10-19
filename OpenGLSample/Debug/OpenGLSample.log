@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Module2.vcxproj, Module3.vcxproj, Module4.vcxproj, OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(241,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(357,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(358,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(362,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(363,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(365,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(366,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\OpenGLSample\Source.cpp(376,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\PCVel\Documents\School\CS 330\Module 6 Milestone\Module 4\Debug\Module5.exe
